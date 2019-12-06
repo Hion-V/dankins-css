@@ -1,0 +1,22 @@
+#header{
+ background-color: #000000;
+}
+#jenkins-name-icon{
+ width: 0px;
+ height: 0px; 
+ padding: 0px; 
+ padding-bottom: 32px;
+ padding-right: 128px;
+ margin-left: 16px;
+ background: url("http://localhost/img/dankins.png");
+ background-size:cover;
+}
+#jenkins-head-icon{
+ width: 0px;
+ height: 0px; 
+ padding: 0px; 
+ padding-bottom: 32px;
+ padding-right: 32px;
+ background: url("http://localhost/img/dankinslogo.png");
+ background-size: cover
+}
